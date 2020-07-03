@@ -29,11 +29,11 @@ header {
 
 .header-right:hover a {
   background-color: rgba(255, 255, 255, 0.5);
-  display: block;
 }
 
 .header-right a {
   line-height: 65px;
   padding: 0 30px;
   color: white;
+  display: block;
 }
