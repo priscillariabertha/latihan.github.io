@@ -28,7 +28,6 @@ header {
   background-color: black;
   transition: all 0.5s;
   float: right;
-  margin-right: -25px;
 }
 
 .header-right a:hover {
