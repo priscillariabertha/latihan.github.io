@@ -24,6 +24,7 @@ header {
 .header-right {
   background-color: black;
   transition: all 0.5s;
+  float: right;
 }
 
 .header-right:hover a {
@@ -32,7 +33,7 @@ header {
 
 .header-right a {
   line-height: 65px;
+  float: right;
   padding: 0 30px;
   color: white;
-  display: block;
 }
