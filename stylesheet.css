@@ -23,6 +23,7 @@ header {
 
 .header-right {
   background-color: black;
+  float: right;
   transition: all 0.5s;
 }
 
