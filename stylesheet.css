@@ -4,6 +4,10 @@
   margin: 0 auto;
 }
 
+a {
+  text-decoration: none;
+}
+
 header {
   height: 65px;
   font-family: "Lucida Grande";
@@ -35,6 +39,5 @@ header {
   line-height: 65px;
   padding: 0 25px;
   color: white;
-  float: left;
   transition: all 0.5s;
 }
