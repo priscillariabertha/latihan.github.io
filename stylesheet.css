@@ -42,3 +42,11 @@ header {
   float: left;
   display: block;
 }
+
+.menu-icon {
+  display: none;
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+}
