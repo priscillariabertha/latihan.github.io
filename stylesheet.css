@@ -33,8 +33,6 @@ header {
 
 .header-right a {
   line-height: 65px;
-  list-style: none;
   padding: 0 25px;
   color: white;
-  display: block;
 }
