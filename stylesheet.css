@@ -27,7 +27,6 @@ header {
 .header-right {
   background-color: black;
   transition: all 0.5s;
-  float: right;
 }
 
 .header-right a:hover {
