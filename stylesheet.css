@@ -1,7 +1,3 @@
-a {
-  text-decoration: none;
-}
-
 .container {
   width: 1170px;
   padding: 0 15px;
@@ -10,6 +6,7 @@ a {
 
 header {
   height: 65px;
+  font-family: "Lucinda Grande";
   width: 100%;
   background-color: black;
   position:fixed;
@@ -21,7 +18,7 @@ header {
 .header-left {
   float: left;
   color: white;
-  font-size: 48px;
+  font-size: 72px;
 }
 
 .header-right {
