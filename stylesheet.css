@@ -21,6 +21,7 @@ header {
 .header-left {
   float: left;
   color: white;
+  font-size: 48px;
 }
 
 .header-right {
